@@ -1,0 +1,1 @@
+{"name": "varkos-store", "version": "1.0.0", "scripts": {"dev": "node server.js", "build": "react-scripts build", "test": "react-scripts test"}, "dependencies": {"express": "^4.17.1", "react": "^17.0.0", "mongodb": "^3.6.0"}}
